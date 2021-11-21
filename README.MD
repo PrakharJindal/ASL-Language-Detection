@@ -24,7 +24,7 @@ The website uses OpenCV to access the webcam. The image frames recieved are proc
 
 ### Dataset
 
-The dataset includes 29 folders ( this include 26 aplhabets and 3 action for Delete , nothing, space )
+The dataset includes 29 folders ( this include 26 alphabets and 3 action for delete , nothing, space )
 
 ### Model Generation
 
