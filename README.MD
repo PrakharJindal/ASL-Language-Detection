@@ -1,4 +1,4 @@
-# Face Mask Detector
+# ASL Sign Language Detection
 
 ### Introduction
 
@@ -8,15 +8,15 @@ In this peoject we are using a deep learning based model for detecting American 
 
 - Detecting Alphabet L
  
-![Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/Prediction_alpha_L(Small).png)
+![Alpha L Detecting](https://github.com/PrakharJindal/ASL-Language-Detection/blob/main/media/Prediction_alpha_L(Small).png)
 
 - Detecting Alphabet O
  
-![Mask Detecting](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/Prediction_alpha_O(Small).png)
+![Alpha O Detecting](https://github.com/PrakharJindal/ASL-Language-Detection/blob/main/media/Prediction_alpha_O(Small).png)
 
 - Flow Chart
  
-![Flow Chart](https://github.com/PrakharJindal/Face-Mask-Detection/blob/main/media/flowchart(Small).png)
+![Flow Chart](https://github.com/PrakharJindal/ASL-Language-Detection/blob/main/media/flowchart(Small).png)
 
 ### Using the application:
 
