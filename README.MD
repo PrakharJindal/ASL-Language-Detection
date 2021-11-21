@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In this peoject we are using a deep learning based model for detecting American Sign Language. Here we have got Validation accuracy of 89.74 %.
+In this project, we are using a deep learning based model for detecting American Sign Language. Here we have got Validation accuracy of 89.74 %.
 
 ### I/O Screenshots
 
